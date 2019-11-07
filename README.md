@@ -10,7 +10,9 @@ Messages are neatly organized via conversations for easier viewing, and you can 
 Recovery email et tél requis.
 ### Conclusion:
 (+) Leader du marché, pratique avec androïd based smartphones, simple.
+
 (-) Pas de chiffrement du contenu (annonces invasives ?).
+
 Standard du monde du travail (tout le monde doit en avoir une ?)
 
 ## Ooutlook
@@ -23,7 +25,9 @@ Fournir nom prénom, date de naissance et nationalité, c'est tout.
 Demande un n° de tél lors de la suppression du compte ?!?
 ### Conclusion:
 (+) Microsoft plutôt que Google, interface familière, simple à prendre en main.
+
 (-) Publicités dans le panneau de droite en version gratuite, pas de chiffrement des données.
+
 Courant pour certaines institutions.
 
 ## Yahoo
@@ -35,6 +39,7 @@ Fournir nom prénom, date de naissance et n° de tél.
 Propose l'usage de mot de passes ?forts (discutable mais recommande l'usage d'un master password).
 ### Conclusion:
 (+) Simple à prendre en main.
+
 (-) Publicités, pas de chiffrement des données.
 
 ## Proton
