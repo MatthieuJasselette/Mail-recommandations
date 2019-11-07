@@ -3,9 +3,9 @@
 ## Gmail
 [![alt text](./assets/gmail.png)](https://accounts.google.com/signup/v2/webcreateaccount?hl=fr&continue=https%3A%2F%2Fmyaccount.google.com%2Fintro&flowName=GlifWebSignIn&flowEntry=SignUp "Google's Homepage")
 
-Gmail's stripped-back web interface is a highlight.
-Most of the screen is devoted to your inbox, with a minimum of toolbar and other clutter.
-Messages are neatly organized via conversations for easier viewing, and you can read and reply to emails with ease, even as a first-time user.
+Gmail est un service de messagerie électronique, gratuit pour les particuliers, proposé par Google. Les messages reçus sur un compte Gmail peuvent être lus via un client de messagerie, une application mobile ou avec un navigateur web. Certaines fonctionnalités du service ne sont cependant accessibles qu’à travers le navigateur web.
+
+L'adresse Gmail sert également d’identifiant pour les nombreux services proposés par Google (YouTube, Blogger, Android et Google Play Store, etc.), justifiant son slogan Tout Google avec un seul compte. Les utilisateurs de Gmail ne l'utilisent donc pas nécessairement pour échanger des courriers électroniques, mais simplement pour accéder à leur compte Google. 
 ### Inscription:
 Recovery email et tél requis.
 ### Conclusion:
@@ -18,8 +18,7 @@ Standard du monde du travail (tout le monde doit en avoir une ?)
 ## Ooutlook
 [![alt text](./assets/outlook.png)](https://signup.live.com/ "Outlook's Homepage")
 
-Outlook's web interface follows the same familiar style as its desktop incarnation, and most other email clients:
-folders and organizational tools on the left, the contents of the current folder in the center, and a simple preview pane on the right (with adverts in the case of the free account).
+Outlook.com est un service de messagerie web de la société Microsoft. Créé en 1996 par Jack Smith avec le nom « Hotmail », ce service est acquis en 1997 par Microsoft qui le renomme MSN Hotmail, puis Windows Live Hotmail.
 ### Inscription:
 Fournir nom prénom, date de naissance et nationalité, c'est tout.
 Demande un n° de tél lors de la suppression du compte ?!?
@@ -33,7 +32,9 @@ Courant pour certaines institutions.
 ## Yahoo
 [![alt text](./assets/yahoo.png)](https://login.yahoo.com/account/create "Yahoo's Homepage")
 
-Yahoo Mail doesn't make the headlines so much, these days, but its latest version is a polished and professional service which stands up well against the top competition.
+Yahoo! Mail est une messagerie web gratuite créée en 1997, offerte par l'entreprise américaine Yahoo!. Il s'agit d'une application Web permettant de communiquer par courriers électroniques.
+
+Outre la gestion de courriels, Yahoo! propose un carnet d'adresses, un calendrier et un bloc-note. Yahoo! Mail est donc aussi un organiseur en ligne. 
 ### Inscription:
 Fournir nom prénom, date de naissance et n° de tél.
 Propose l'usage de mot de passes ?forts (discutable mais recommande l'usage d'un master password).
@@ -45,13 +46,12 @@ Propose l'usage de mot de passes ?forts (discutable mais recommande l'usage d'un
 ## Proton
 [![alt text](./assets/proton.png)](https://protonmail.com/signup "Proton's Homepage")
 
-ProtonMail is a Swiss-based email service which focuses on privacy above all else.
-You can sign up anonymously, there's no logging of IP addresses, and all your emails are end-to-end encrypted, which means there's no way ProtonMail (or anyone else) can read their contents. 
-/!\ end-to-end encryption is specific to ProtonMail, it also ensures that you can't use the service with other email clients.
+Ce service de messagerie se distingue d'autres services proposés au grand public son chiffrement automatique, sans que l'utilisateur ait besoin de quelque connaissance que ce soit des techniques de cryptographie. Le service s'utilise donc tout aussi simplement, en garantissant un très haut niveau de confidentialité. 
+Les courriels envoyés à des destinataires extérieurs à ProtonMail peuvent être chiffrés avec un mot de passe fourni en temps réel par l'expéditeur, et que celui-ci doit partager avec le destinataire. Le message est alors mémorisé par le service, et un courriel non chiffré est envoyé au destinataire pour l'informer de la présence d'un message de l'expéditeur à son attention. Lui est fournie l'adresse de la page à laquelle il doit se rendre pour en prendre connaissance. La durée de vie des ces pages est limitée à quelques semaines. 
 ### Inscription:
 Recovery email optionnel, pas de tél.
 ### Conclusion:
-Alternative open source but self-centered
+Alternative open source
 => Public soucieux de sa vie privée en dépit des limitations
 
 ## Tutanota
