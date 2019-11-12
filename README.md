@@ -68,6 +68,3 @@ Pas d'email de récupération ou de n° de tél à fournir.
 Produit un code de récupération (très long et compliqué) à conserver, seul moyen de réinitialiser son mot de passe.
 ### Conclusion:
 Excellente alternative open source mais compliqué ! => Public averti et soucieux de sa vie privée
-
-(-) Ne peut recevoir de mail d'un autre provider ?
-
