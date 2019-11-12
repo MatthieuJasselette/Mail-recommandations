@@ -47,7 +47,7 @@ Propose l'usage de mot de passes ?forts (discutable mais recommande l'usage d'un
 [![alt text](./assets/proton.png)](https://protonmail.com/signup "Proton's Homepage")
 
 Ce service de messagerie se distingue d'autres services proposés au grand public son chiffrement automatique, sans que l'utilisateur ait besoin de quelque connaissance que ce soit des techniques de cryptographie. Le service s'utilise donc tout aussi simplement, en garantissant un très haut niveau de confidentialité. 
-Les courriels envoyés à des destinataires extérieurs à ProtonMail peuvent être chiffrés avec un mot de passe fourni en temps réel par l'expéditeur, et que celui-ci doit partager avec le destinataire. Le message est alors mémorisé par le service, et un courriel non chiffré est envoyé au destinataire pour l'informer de la présence d'un message de l'expéditeur à son attention. Lui est fournie l'adresse de la page à laquelle il doit se rendre pour en prendre connaissance. La durée de vie des ces pages est limitée à quelques semaines. 
+Les courriels envoyés à des destinataires extérieurs à ProtonMail **peuvent** être chiffrés avec un mot de passe fourni en temps réel par l'expéditeur, et que celui-ci doit partager avec le destinataire. Le message est alors mémorisé par le service, et un courriel non chiffré est envoyé au destinataire pour l'informer de la présence d'un message de l'expéditeur à son attention. Lui est fournie l'adresse de la page à laquelle il doit se rendre pour en prendre connaissance.
 ### Inscription:
 Recovery email optionnel (nécessaire pour reset le mot de passe), pas de tél.
 ### Conclusion:
@@ -67,5 +67,7 @@ Après avoir entré un mot de passe échangé précédemment, le destinataire pe
 Pas d'email de récupération ou de n° de tél à fournir.
 Produit un code de récupération (très long et compliqué) à conserver, seul moyen de réinitialiser son mot de passe.
 ### Conclusion:
-Excellente alternative open source mais compliqué !
-=> Public averti et soucieux de sa vie privée
+Excellente alternative open source mais compliqué ! => Public averti et soucieux de sa vie privée
+
+(-) Ne peut recevoir de mail d'un autre provider ?
+
