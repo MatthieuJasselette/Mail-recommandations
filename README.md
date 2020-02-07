@@ -15,7 +15,7 @@ Recovery email et tél requis.
 
 Standard du monde du travail (tout le monde doit en avoir une ?)
 
-## Ooutlook
+## Outlook
 [![alt text](./assets/outlook.png)](https://signup.live.com/ "Outlook's Homepage")
 
 Outlook.com est un service de messagerie web de la société Microsoft. Créé en 1996 par Jack Smith avec le nom « Hotmail », ce service est acquis en 1997 par Microsoft qui le renomme MSN Hotmail, puis Windows Live Hotmail.
